@@ -2,15 +2,16 @@
 
 A new Flutter project.
 
-## Getting Started
+## Output:
 
-This project is a starting point for a Flutter application.
+### Empty Screen :
+![Screenshot 2023-08-12 205154](https://github.com/SaiSuryaaK08/Expense_Tracker_App-Flutter/assets/124805831/194a99f2-fe06-442e-8d3c-ad02ae4c4acb)
 
-A few resources to get you started if this is your first Flutter project:
+## Adding expenses
+![Screenshot 2023-08-12 205234](https://github.com/SaiSuryaaK08/Expense_Tracker_App-Flutter/assets/124805831/611ca3ee-e800-4a5c-adaf-dac4ed3d2632)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Date picker
+![Screenshot 2023-08-12 205222](https://github.com/SaiSuryaaK08/Expense_Tracker_App-Flutter/assets/124805831/1cbaf72d-d1d1-49c6-9847-9605e661858a)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Expenses Tracker Screen:
+![Screenshot 2023-08-12 205354](https://github.com/SaiSuryaaK08/Expense_Tracker_App-Flutter/assets/124805831/abfb6c78-4b0b-46ee-a407-87fe6e3746cc)
